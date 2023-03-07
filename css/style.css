@@ -1,0 +1,102 @@
+body {
+color: white !important;
+background-color: #262626 !important;
+}
+
+.dark {
+  background-color: #1a1a1a;
+}
+
+.invis {
+  visibility: hidden;
+}
+
+.right {
+  float: right;
+  position: absolute;
+}
+
+.font-reaper {
+  font-family: 'Kalam', cursive;
+  font-size: 30px;
+  padding-right: 20px;
+  color: white;
+  border: none;
+  text-decoration: none;
+}
+
+.font-reaper:hover {
+  font-family: 'Kalam', cursive;
+  font-size: 30px;
+  padding-right: 20px;
+  color: white;
+  border: none;
+  text-decoration: none;
+}
+
+.size {
+  width: 50%;
+}
+
+@media only screen and (max-width: 600px) {
+.size {
+  width: 80%;
+}
+.white {
+  display: none;
+}
+}
+
+.table-container {
+  width: 50%;
+  margin-top: 1%;
+}
+
+.white {
+  background-color: #1a1a1a;
+  padding: 50px;
+  border-radius: 8%;
+}
+
+.size {
+  background-color: #1a1a1a;
+  padding: 50px;
+  border-radius: 8%;
+  margin-top: 2%;
+}
+
+.beli_text {
+  color: white;
+}
+
+.table {
+  max-width: 55%;
+}
+
+.navbar {
+  padding: 15px;
+  background: #ff4d4d;
+}
+
+.glavni_forum {
+  margin-top: 5%;
+  max-width: 40%;
+}
+
+.blacklist_text {
+  margin-top: 5%;
+  color: white;
+}
+
+.beli_text {
+  color: white;
+}
+
+.table {
+  max-width: 50%;
+}
+
+.navbar {
+  padding: 15px;
+  background: #ff4d4d;
+}
